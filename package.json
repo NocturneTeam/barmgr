@@ -1,0 +1,32 @@
+{
+  "name": "barmgr",
+  "version": "1.0.0",
+  "description": "Progressbar manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NocturneTeam/barmgr.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "progressbar",
+    "bar",
+    "progress",
+    "utility",
+    "utils",
+    "util"
+  ],
+  "author": "NocturneTeam | L'Ange Déchu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NocturneTeam/barmgr/issues"
+  },
+  "homepage": "https://github.com/NocturneTeam/barmgr#readme",
+  "dependencies": {
+    "process": "^0.11.10"
+  }
+}
